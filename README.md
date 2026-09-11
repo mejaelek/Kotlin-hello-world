@@ -6,7 +6,7 @@ This software is a simple "Hello World" console program written in Kotlin. It pr
 
 My purpose in creating this software was to verify my toolchain (Kotlin, Git, VS Code) works end-to-end and to practice the full workflow I'll repeat for every module this semester: write code, document it, record a walkthrough, and publish it to a public GitHub repository.
 
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo:https://youtu.be/CfU83IdOICI 
 
 # Development Environment
 
